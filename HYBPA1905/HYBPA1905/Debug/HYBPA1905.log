@@ -1,0 +1,4 @@
+﻿  HYBPA1905.cpp
+e:\hybpa1905\hybpa1905\hybpa1905\hybpa1905.cpp(71): warning C4101: “cWorkPath”: 未引用的局部变量
+e:\hybpa1905\hybpa1905\hybpa1905\hybpa1905.cpp(136): warning C4101: “cWorkPath”: 未引用的局部变量
+  HYBPA1905.vcxproj -> E:\HYBPA1905\HYBPA1905\Debug\HYBPA1905.exe
